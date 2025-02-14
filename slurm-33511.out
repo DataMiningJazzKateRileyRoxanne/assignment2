@@ -1,0 +1,9 @@
+/var/spool/slurmd/job33511/slurm_script: line 11: Set: command not found
+
+EnvironmentNameNotFound: Could not find conda environment: pytorch
+You can list all discoverable environments with `conda info --envs`.
+
+
+/var/spool/slurmd/job33511/slurm_script: line 15: Call: command not found
+python: can't open file '/home/jazz.singh1/transfer_learning_garbage_images.ipynb': [Errno 2] No such file or directory
+/var/spool/slurmd/job33511/slurm_script: line 18: Deactivate: command not found
