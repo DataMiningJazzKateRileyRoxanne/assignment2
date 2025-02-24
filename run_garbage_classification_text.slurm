@@ -8,12 +8,12 @@
 #SBATCH --gres=gpu:1
 #SBATCH --partition=gpu
 
-Set up environment
+#Set up environment
 source ~/software/init-conda
 conda activate pytorch
 
-Call your script
-python ~/transfer_learning_garbage_images.ipynb
+#Call your script
+python ~/ass2/assignment2/garbage_python_text.py
 
-Deactivate conda
+#Deactivate conda
 conda deactivate

@@ -1,0 +1,12 @@
+/var/spool/slurmd/job34120/slurm_script: line 11: Set: command not found
+
+EnvironmentNameNotFound: Could not find conda environment: pytorch
+You can list all discoverable environments with `conda info --envs`.
+
+
+/var/spool/slurmd/job34120/slurm_script: line 15: Call: command not found
+Traceback (most recent call last):
+  File "/home/jazz.singh1/ass2/assignment2/garbage_classification_text.ipynb", line 155, in <module>
+    "execution_count": null,
+NameError: name 'null' is not defined
+/var/spool/slurmd/job34120/slurm_script: line 18: Deactivate: command not found
